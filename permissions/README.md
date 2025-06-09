@@ -1,1 +1,1 @@
-perissions readme
+permissions readme
